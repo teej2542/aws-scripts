@@ -6,4 +6,4 @@ Create a VPC with a subnet by passing in two parameters (VPC CIDR Block, SUBNET 
 <br/>
 <code>./create_vpc.sh vpc_block subnet_block</code>
 
-Delete VPC and it connected subnets(Pass in vpc id): <code>./delete_vpc.sh vpcID</code>
+Delete VPC and it connected subnets(Pass in vpc id): <code>./delete_vpc.sh vpc_id</code>
